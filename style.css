@@ -1,3 +1,27 @@
 body {
     background-color: rgb(39, 68, 94);
+    color: rgb(255, 229, 248);
+
+font-family: "Fugaz One", sans-serif;
+margin: 0px;
+
+}
+
+header {
+font-size: 50px;
+text-align: center;
+border-bottom:dashed 5px rgb(205, 227, 245);
+padding: 30px;
+color: rgb(112, 151, 209);
+}
+
+h1 {
+font-size: 30px;
+padding-left: 30px;
+}
+
+p {
+font-size: 20px;
+padding-left: 30px;
+
 }

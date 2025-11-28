@@ -27,7 +27,7 @@ padding-left: 30px;
 
 }
 
-section{
+.chamada{
 background-color: rgb(3, 50, 68);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -42,4 +42,19 @@ justify-content:center;
 img{
     width: 300px;
     height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 20px;
+}
+
+h2{
+    padding-left: 30px;
+}
+
+body{
+    padding-bottom: 40px;
 }
